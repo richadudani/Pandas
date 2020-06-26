@@ -3,4 +3,4 @@ In this assignment, I have evaluated the performance of various algorithmic, hed
 
 Additionally, a custom portfolio of stocks were created and I compared its performance to that of the other portfolios, as well as the larger market (S&amp;P 500).
 
-The file is named "Whale_Custom_Portfolio_Analysi.ipynb"
+The file is named "Whale_Custom_Portfolio_Analysis.ipynb"
